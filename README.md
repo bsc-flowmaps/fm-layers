@@ -1,6 +1,6 @@
 # Geographic layers
 
-Ggeographic layers on which the different data records are geo-referenced (e.g. mobility, COVID-19 cases). The different layers can be grouped into those that cover the whole territory of pain (e.g. municipalities) and those that are restricted to a specific region (Table1). Among those that cover the full territory of Spain, the record accounts for the first four levels of administrative division, that is, autonomous communities, provinces, municipalities and districts.
+Geographic layers on which the different data records are geo-referenced (e.g. mobility, COVID-19 cases). The different layers can be grouped into those that cover the whole territory of pain (e.g. municipalities) and those that are restricted to a specific region (Table1). Among those that cover the full territory of Spain, the record accounts for the first four levels of administrative division, that is, autonomous communities, provinces, municipalities and districts.
 
 Visit https://flowmaps.life.bsc.es/flowboard/data for more information about the data.
 
