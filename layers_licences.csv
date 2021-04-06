@@ -1,0 +1,41 @@
+Data Source,Licence,Home Page
+ine_sec,http://www.ine.es/aviso_legal,https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout
+ine_districts,http://www.ine.es/aviso_legal,https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout
+ine_municipios,http://www.ine.es/aviso_legal,https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout
+cnig_municipios,http://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf,http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=LILIM
+cnig_provincias,http://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf,http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=LILIM
+cnig_ccaa,http://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf,http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=LILIM
+world,https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units,https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/countries
+ate_pri,https://opendefinition.org/licenses/cc-by/,https://comunidadsig.maps.arcgis.com/home/item.html?id=e9e8543a13474b4abef15f6d5a43ab31
+ate_urg_extra,https://opendefinition.org/licenses/cc-by/,https://comunidadsig.maps.arcgis.com/home/item.html?id=c4ad72ed81594da4955acb2a57fd8533
+hospitales,https://opendefinition.org/licenses/cc-by/,https://comunidadsig.maps.arcgis.com/home/item.html?id=68745a7fb7a348b6b0d722c8517790af
+reg_san_09,http://creativecommons.org/licenses/ by-nc-nd/4.0/deed.ca,https://salutweb.gencat.cat/ca/el_departament/estadistiques_sanitaries/cartografia/
+sect_san_09,http://creativecommons.org/licenses/ by-nc-nd/4.0/deed.ca,https://salutweb.gencat.cat/ca/el_departament/estadistiques_sanitaries/cartografia/
+aga_09,http://creativecommons.org/licenses/ by-nc-nd/4.0/deed.ca,https://salutweb.gencat.cat/ca/el_departament/estadistiques_sanitaries/cartografia/
+abs_09,http://creativecommons.org/licenses/ by-nc-nd/4.0/deed.ca,https://salutweb.gencat.cat/ca/el_departament/estadistiques_sanitaries/cartografia/
+shires_09,http://creativecommons.org/licenses/by/4.0/deed.ca,https://www.icgc.cat/Administracio-i-empresa/Descarregues/Capes-de-geoinformacio/Base-municipal
+mun_dis_13,https://creativecommons.org/licenses/by/4.0/legalcode.es,"http://origin-datos.comunidad.madrid/catalogo/dataset/covid19_tia_muni_y_distritos/resource/46a2f4c4-aaf6-4019-8979-fd2873c5bd7d,http://origin-datos.comunidad.madrid/catalogo/dataset/covid19_tia_muni_y_distritos"
+zon_bas_13,https://creativecommons.org/licenses/by/4.0/legalcode.es,"http://origin-datos.comunidad.madrid/catalogo/dataset/covid19_tia_zonas_basicas_salud/resource/f1837bd3-a835-4110-9bbf-fae06c99b56b,http://origin-datos.comunidad.madrid/catalogo/dataset/covid19_tia_zonas_basicas_salud"
+area_san_13,https://choosealicense.com/no-permission/,http://www.madrid.org/nomecalles/DescargaBDTCorte.icm
+dis_san_13,https://choosealicense.com/no-permission/,http://www.madrid.org/nomecalles/DescargaBDTCorte.icm
+zon_san_13,https://choosealicense.com/no-permission/,http://www.madrid.org/nomecalles/DescargaBDTCorte.icm
+zbs_13,https://choosealicense.com/no-permission/,http://www.madrid.org/nomecalles/DescargaBDTCorte.icm
+oe_16,https://creativecommons.org/licenses/by/4.0/deed.es_ES,https://www.geo.euskadi.eus/zonas-de-salud-de-euskadi/s69-geodir/es/
+cs_hosp_16,https://creativecommons.org/licenses/by/4.0/deed.es_ES,https://opendata.euskadi.eus/catalogo/-/centros-de-salud-publicos-en-euskadi/
+zbs_15,https://creativecommons.org/licenses/by/4.0/deed.es,https://gobiernoabierto.navarra.es/es/open-data/datos/servicio-navarro-salud-delimitacion-zonas-basicas-salud
+as_15,https://creativecommons.org/licenses/by/4.0/deed.es,https://gobiernoabierto.navarra.es/es/open-data/datos/servicio-navarro-salud-delimitacion-areas-salud
+zbs_07,https://www.jcyl.es/licencia-IGCYL-NC,https://datosabiertos.jcyl.es/web/jcyl/set/es/medio-ambiente/zonas-basicas-salud-cyl/1284688135689
+codigos_postales,https://choosealicense.com/no-permission/,https://analisisydecision.es/como-hacer-un-mapa-de-espana-por-codigos-postales-con-qgis/
+comarcas_12,https://choosealicense.com/no-permission/,http://mapas.xunta.gal/centro-de-descargas
+concellos_12,https://choosealicense.com/no-permission/,http://mapas.xunta.gal/centro-de-descargas
+parroquias_12,https://choosealicense.com/no-permission/,http://mapas.xunta.gal/centro-de-descargas
+as_12,https://choosealicense.com/no-permission/,"https://www.sergas.es/Saude-publica/GIS-Areas-sanitarias,https://www.sergas.es/Saude-publica/GIS-Limites-administrativos"
+dis_san_01,https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/avisoLegal/index.htm#cc,https://www.juntadeandalucia.es/institutodeestadisticaycartografia/DERA/g13.htm
+zbs_01,https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/avisoLegal/index.htm#cc,https://www.juntadeandalucia.es/institutodeestadisticaycartografia/DERA/g13.htm
+d_zbs_01,https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/avisoLegal/index.htm#cc,https://www.juntadeandalucia.es/institutodeestadisticaycartografia/DERA/g13.htm
+andorra,https://choosealicense.com/no-permission/,https://www.iea.ad/limit-estatal
+parroquias_03,https://creativecommons.org/licenses/by/4.0/deed,"https://ideas.asturias.es/catalogo-de-metadatos/?uuid=spaGOPAcde_carto_ua2015,https://ideas.asturias.es/es/centro-de-descargas?category=1&subcategory=7&lang=es"
+concejos_03,https://creativecommons.org/licenses/by/4.0/deed,"https://ideas.asturias.es/catalogo-de-metadatos/?uuid=spaGOPAcde_carto_ua2015,https://ideas.asturias.es/es/centro-de-descargas?category=1&subcategory=7&lang=es"
+as_03,https://creativecommons.org/licenses/by/4.0/deed,"https://ideas.asturias.es/catalogo-de-metadatos/?uuid=spaGOPAcde_carto_ua2015,https://ideas.asturias.es/es/centro-de-descargas?category=1&subcategory=7&lang=es"
+geostat,Non commercial use only. Detailed conditions can be found in the file GEOSTAT_grid_POP_1K_2011_Usage-and-License-Conditions.txt;,https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/population-distribution-demography/geostat
+Generated at,2021-02-22,
